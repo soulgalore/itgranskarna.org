@@ -20,7 +20,7 @@ keywords: it, teknik, offentlig, upphandling
 
 <form name="tipsa" method="POST" action="/tack.html" netlify>
   <div class="form-group row">
-    <label for="inputName" class="col-form-label col-form-label-lg">Namn/alias</label>
+    <label for="inputName" class="col-form-label col-form-label-lg">Namn/alias: </label>
     <div>
       <input type="text" class="form-control form-control-lg" name="alias" id="inputName" placeholder="Ditt namn (eller alias)">
     </div>
