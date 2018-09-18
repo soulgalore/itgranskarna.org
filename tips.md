@@ -22,12 +22,12 @@ keywords: it, teknik, offentlig, upphandling
   <div class="form-group row">
     <label for="inputName" class="col-sm-2 col-form-label col-form-label-lg">Namn/alias</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-lg" id="inputName" placeholder="Ditt namn (eller alias)">
+      <input type="text" class="form-control form-control-lg" name="alias" id="inputName" placeholder="Ditt namn (eller alias)">
     </div>
   </div>
   <div class="form-group row">
     <label for="exampleFormControlTextarea1" class="col-form-label col-form-label-lg">Skriv din historia här (du kan också maila oss på <a href="mailto:tips@itgranskarna.org">tips@itgranskarna.org</a>):</label>
-    <textarea class="form-control form-control-lg" id="textArea" rows="10"></textarea>
+    <textarea class="form-control form-control-lg" id="textArea" name="tips" rows="10"></textarea>
   </div>
     <div data-netlify-recaptcha></div>
   <div class="form-group row">
