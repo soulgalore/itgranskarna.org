@@ -8,7 +8,7 @@ keywords: it, teknik, offentlig, upphandling
 <section id="promo" class="promo section offset-header">
         <div class="container text-center">
             <h2 class="title">IT<span class="highlight">Granskarna</span></h2>
-            <p class="intro">Vi ska ställa allt tillrätta (om du hjälper oss)!</p>
+            <p class="intro">Vi ska ställa allt tillrätta. Om du hjälper oss!</p>
             <div class="btns">
                 <a class="btn btn-cta-primary" href="/tips.html">Tipsa oss</a>
             </div>
