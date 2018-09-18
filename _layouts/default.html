@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="{{ page.description }}">
+	<meta name="keywords" content="{{ page.keywords }}">
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="">    
+    <link rel="shortcut icon" href="favicon.ico">  
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Plugins CSS -->    
+    <link rel="stylesheet" href="plugins/prism/prism.css">
+	<style>{% include css/theme-4.css %}</style>
+</head> 
+<body data-spy="scroll">
+	{% include header.html %}
+
+	{{ content }}
+	
+	{% include footer.html %}
+		
+</body>
+</html>
