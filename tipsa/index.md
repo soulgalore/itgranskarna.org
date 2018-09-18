@@ -26,13 +26,15 @@ keywords: it, teknik, offentlig, upphandling
   </div>
   <div class="form-group row">
     <label for="inputName" class="col-form-label col-form-label-lg">E-post: </label>
-      <input type="email" class="form-control form-control-lg" name="epost" id="inputName" placeholder="Vi behöver kunna kontakta dig">
+      <input type="email" class="form-control form-control-lg" name="epost" id="inputName" placeholder="Vi behöver kunna kontakta dig för att verifiera vissa uppgifter">
   </div>
   <div class="form-group row">
     <label for="exampleFormControlTextarea1" class="col-form-label col-form-label-lg">Skriv din historia här:</label>
     <textarea class="form-control form-control-lg" id="textArea" name="tips" rows="10"></textarea>
   </div>
+  <div class="form-group row">
     <div data-netlify-recaptcha></div>
+    </div>
   <div class="form-group row">
     <div>
       <button type="submit" class="btn btn-primary btn-lg">Skicka tips</button>
