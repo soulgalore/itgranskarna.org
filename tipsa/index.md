@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skicka in din berättelse nu!
-description: Du gör skillnad, hjälp oss att på hur IT egentligen byggs is Sverige.
+description: Du gör skillnad, hjälp oss att på hur IT egentligen byggs i Sverige.
 keywords: it, teknik, offentlig, upphandling
 ---
 
@@ -9,7 +9,7 @@ keywords: it, teknik, offentlig, upphandling
  <section id="promo" class="promo section offset-header">
         <div class="container text-center">
         <h1 class="title tips">Tipsa oss om knas i IT Sverige!</h1>
-            <p class="intro">Fuskas det i offentliga upphandlingar? Ser din chef till att ert företag lurar pengar av kommun/landsting/stat? Byggs det helknasiga lösningar för en massa miljoner? Tipsa oss om det. Du är anonym. Vi publicerar din berättelse.</p>
+            <p class="intro">Ser din chef till att ert företag lurar pengar av kommun/landsting/stat? Byggs det helknasiga lösningar som kostar miljoner? Tipsa oss om det. Du är anonym. Vi publicerar din berättelse om den går att verifiera.</p>
         </div>
     </section>
 
