@@ -22,7 +22,7 @@ keywords: it, teknik, offentlig, upphandling
   <div class="form-group row">
     <label for="inputName" class="col-form-label col-form-label-lg">Namn/alias: </label>
     <div>
-      <input type="text" class="form-control form-control-lg" name="alias" id="inputName" placeholder="Ditt namn (eller alias)">
+      <input type="text" class="form-control form-control-lg" name="alias" id="inputName" placeholder="Namn">
     </div>
   </div>
   <div class="form-group row">
