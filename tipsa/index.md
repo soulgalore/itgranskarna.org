@@ -15,18 +15,21 @@ keywords: it, teknik, offentlig, upphandling
 
  
 <section id="tips" class="docs section">  
-     <div class="container">  
-      <div class="docs-inner">
+<div class="container">  
+<div class="docs-inner">
+<p>Du kan tipsa oss antingen genom formuläret nedan eller via <a href="mailto:tipsa@itgranskarna.org">tipsa@itgranskarna.org</a>. Om du behöver sända oss dokument använd <a href="https://send.firefox.com/">https://send.firefox.com/</a> och lägg till länkarna till dokumenten i formuläret.</p>
 
-<form name="tipsa" method="POST" action="/tack.html" netlify>
+<form name="tipsa" method="POST" action="/tack/" netlify>
   <div class="form-group row">
     <label for="inputName" class="col-form-label col-form-label-lg">Namn/alias: </label>
-    <div>
       <input type="text" class="form-control form-control-lg" name="alias" id="inputName" placeholder="Namn">
-    </div>
   </div>
   <div class="form-group row">
-    <label for="exampleFormControlTextarea1" class="col-form-label col-form-label-lg">Skriv din historia här (du kan också maila oss på <a href="mailto:tips@itgranskarna.org">tips@itgranskarna.org</a>):</label>
+    <label for="inputName" class="col-form-label col-form-label-lg">E-post: </label>
+      <input type="email" class="form-control form-control-lg" name="epost" id="inputName" placeholder="Vi behöver kunna kontakta dig">
+  </div>
+  <div class="form-group row">
+    <label for="exampleFormControlTextarea1" class="col-form-label col-form-label-lg">Skriv din historia här:</label>
     <textarea class="form-control form-control-lg" id="textArea" name="tips" rows="10"></textarea>
   </div>
     <div data-netlify-recaptcha></div>
