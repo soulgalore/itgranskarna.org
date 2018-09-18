@@ -23,17 +23,3 @@ keywords: it, teknik, offentlig, upphandling
             <p class="text-center"> Följ oss på <a href="https://twitter.com/itgranskarna">Twitter</a> för senaste nytt.</p>
     </div>
 </section> 
-
-<section id="docs" class="docs section">
-        <div class="container">
-            <div class="docs-inner">
-            <h2 class="title text-center">Jag fattar ingenting, vad är det här?</h2>   
-            <h3 class="sub-title text-center">JavaScript</h3>         
-            <div class="block">Vi tänker det är fel fråga att ställa sig.</div>
-            <h2 class="title text-center">Vems fel är det?</h2>            
-            <div class="block">Vi tänker det är fel fråga att ställa sig.</div>
-            <h2 class="title text-center">Vems fel är det?</h2>            
-            <div class="block">Vi tänker det är fel fråga att ställa sig. Nu behöver vi samla feedback på vad som går fel.</div>
-            </div>
-           </div>
-</section> 
