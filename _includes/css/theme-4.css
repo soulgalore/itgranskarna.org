@@ -681,6 +681,9 @@ pre code {
   .header.navbar-fixed-top {
     height: 70px;
   }
+  h1.title.tips {
+    font-size: 3rem;
+  }
   .promo .btns .btn {
     margin-right: 0;
     clear: both;
@@ -688,7 +691,7 @@ pre code {
     margin-bottom: 30px;
   }
   .promo .title {
-    font-size: 66px;
+    font-size: 56px;
   }
   .promo .meta {
     margin-top: 60px;
