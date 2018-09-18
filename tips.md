@@ -20,8 +20,8 @@ keywords: it, teknik, offentlig, upphandling
 
 <form name="tipsa" method="POST" action="/tack.html" netlify>
   <div class="form-group row">
-    <label for="inputName" class="col-sm-2 col-form-label col-form-label-lg">Namn/alias</label>
-    <div class="col-sm-10">
+    <label for="inputName" class="col-form-label col-form-label-lg">Namn/alias</label>
+    <div>
       <input type="text" class="form-control form-control-lg" name="alias" id="inputName" placeholder="Ditt namn (eller alias)">
     </div>
   </div>
@@ -31,7 +31,7 @@ keywords: it, teknik, offentlig, upphandling
   </div>
     <div data-netlify-recaptcha></div>
   <div class="form-group row">
-    <div class="col-sm-10">
+    <div>
       <button type="submit" class="btn btn-primary btn-lg">Skicka tips</button>
     </div>
   </div>
