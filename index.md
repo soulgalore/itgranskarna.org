@@ -24,7 +24,7 @@ keywords: it, teknik, offentlig, upphandling
             </p>
 
             <h2 class="title text-center">Vad gör vi?</h2>
-            <p class="intro text-center">Vi kommer jobba aktivt med att gräva djupare i tips som vi får och gå igenom hur saker och ting skulle kunna fungera bättre.</p>
+            <p class="intro text-center">Vi kommer jobba aktivt med att gräva djupare i tips som vi får och gå igenom hur saker och ting skulle kunna fungera bättre. Det behövs synliggöras hur det fungerar idag och det behövs konkreta förslag om hur det kan bli bättre.</p>
 
             <h2 class="title text-center">Vad kan du göra?</h2>
              <p class="intro text-center">Du <a href="/tipsar/">tipsar</a> oss om hur ditt företag lurar offentlig IT och vi lovar att publicera dina inlägg. (om vi kan verifiera det). Ser din chef till att ert företag lurar pengar av kommun/landsting/stat? Byggs det helknasiga lösningar för en massa miljoner? Kom igen tipsa oss! Det sägs att golare har inga polare men det är fel. <a href="/tipsa/">Berätta</a> om ditt projekt, din chef eller ditt företag till oss. Vi lovar att du kommer må bättre efter du delat med dig. Vi ser extra fram emot utvecklare som jobbat med <a href="https://www.dn.se/sthlm/haveri-for-stockholms-jattelika-digitala-skolsatsning/">Stockholms skolplattform</a>. Kom ihåg, du är anonym.</p>
